@@ -32,13 +32,14 @@ Copy code
 
 Assuming you have Node.js and npm installed:
 
-```bash
+``bash
 git clone https://github.com/dhevprashath/movie_card.git
 cd movie_card
 npm install
 npm start       # or as configured in package.json
 This will start the React development server.
 Open the app in your browser (e.g. http://localhost:3000) to view the movie cards UI.
+
 
 
 ![Screenshot 2025-06-13 233936](https://github.com/user-attachments/assets/efbbaec7-e584-4901-b0b9-b91acffa0097)
